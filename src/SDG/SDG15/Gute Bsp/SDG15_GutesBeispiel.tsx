@@ -84,7 +84,7 @@ export const SDG15_GutesBeispiel: TextProps = {
         7: (
             <div>
                 {" "}
-                Das dritte Ziel besteht darin, die Hauptprobleme für die Verluste der Natur zu finden und an ihnen zu
+                Das dritte Ziel besteht darin, die Gründe für die Verluste der Natur zu finden und an ihnen zu
                 arbeiten. Dazu zählen Finanzsysteme, diese müssten die Natur wertschätzen, Regierungssysteme, die ihre
                 Bürger dazu motivieren sollten, die Erde zu schützen und als drittes wird die Wirtschaft verantwortlich
                 gemacht. In dieser sollte eine nachhaltige Produktion und ein umweltfreundlicher Konsum normal werden.
@@ -96,7 +96,7 @@ export const SDG15_GutesBeispiel: TextProps = {
                     <li>
                         {" "}
                         WWF setzt sich aber nicht nur für die Natur, sondern auch für den Menschen ein. Zum Beispiel
-                        wird die LGBTQ+ Bewegung, die sich um die Gleichstellung von nicht heterosexuellen Paaren
+                        wird die LGBTQ+ Bewegung, die sich um die Gleichstellung von nicht heterosexuellen Paaren (also Paare, die nicht aus einem Mann und einer Frau bestehen)
                         bemüht, unterstützt.
                     </li>
                     <li style={{ marginTop: "3vh" }}>
